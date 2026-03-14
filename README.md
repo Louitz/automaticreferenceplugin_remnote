@@ -52,3 +52,7 @@ npm run build
 GitHub repository:
 
 `https://github.com/Louitz/automaticreferenceplugin_remnote`
+
+## Disclaimer
+
+The whole Plugin was coded with ChatGPT Codex.

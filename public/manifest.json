@@ -3,11 +3,11 @@
   "id": "automatic_references_plugin",
   "name": "Automatic References",
   "author": "Louitz",
-  "repoUrl": "https://github.com/remnoteio/remnote-plugin-template-react",
+  "repoUrl": "https://github.com/Louitz/automaticreferenceplugin_remnote",
   "version": {
-    "major": 0,
+    "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   },
   "theme": [],
   "enableOnMobile": false,

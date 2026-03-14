@@ -1,0 +1,10 @@
+/* Add your plugin styles here. This file is named <widget-name>.css; in this case, index.css*/
+
+.rem-reference,
+.rn-rem-reference,
+[data-rem-tags~='rem-reference'],
+[data-rem-type='rem-reference'] {
+  color: #60a5fa !important;
+  text-decoration: underline !important;
+  text-underline-offset: 0.14em;
+}

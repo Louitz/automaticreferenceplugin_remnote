@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "automatic_references_plugin",
+  "name": "Automatic References",
+  "author": "Louitz",
+  "repoUrl": "https://github.com/remnoteio/remnote-plugin-template-react",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "theme": [],
+  "enableOnMobile": false,
+  "description": "Automatically creates clickable references for matching terms and short phrases within the current RemNote document. Disclaimer: Entire Plugin was coded using ChatGPT Codex",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "ReadCreateModify"
+    }
+  ]
+}
